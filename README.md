@@ -10,14 +10,14 @@ mesh :filename.obj
 ```
 + Shading: done based on specified type
 
-Flat shading: at end of add_shape, add flat
+For Flat shading: at end of add_shape at mdl script, add flat
 ```
 add_shape arg0 arg1 ... flat
 ```
 
-Gouraud shading: at end of add_shape, add gouraud
+For Gouraud shading: at end of add_shape at mdl_script, add gouraud
 ```
 add_shape arg0 arg1 ... gouraud
 ```
 
-If color is not specified, it is assumed to be flat shading
+Otherwise, if color isn't specified, it is assumed to be flat shading
