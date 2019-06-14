@@ -3,7 +3,7 @@ Calvin Aw and Sajed Nahian
 
 Period 5
 
-### Some Features
+### Some Features:
 + Mesh: can retrieve information 
 ```
 mesh :filename.obj
