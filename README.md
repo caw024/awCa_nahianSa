@@ -1,5 +1,6 @@
 # Graphics Final Project: Team La CaSa
 Calvin Aw and Sajed Nahian
+
 Period 5
 
 ### Some Features
