@@ -9,11 +9,11 @@ mesh :filename.obj
 ```
 + Shading: done based on specified type
 
-Flat shading: at end of add_shape, add flat
+ ++Flat shading: at end of add_shape, add flat
 ```
 add_shape arg0 arg1 ... flat
 ```
-Gouraud shading: at end of add_shape, add gouraud
+++Gouraud shading: at end of add_shape, add gouraud
 ```
 add_shape arg0 arg1 ... gouraud
 ```
